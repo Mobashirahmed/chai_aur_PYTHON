@@ -1,0 +1,10 @@
+# range( in python)
+
+# syntax: range(low, high)
+print(range(10))
+print(range(0,10))
+print(range(6,10))
+y = range(10)
+print(y)
+z = range(9, 15)
+print(z)

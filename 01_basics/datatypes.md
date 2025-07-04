@@ -1,8 +1,8 @@
 # Object Types / Data Types
 
 - Number : 1234, 3.141592, 3+4j, 0b111, Decimal(), Fraction()
-- String : 'sppam', "Bob's", b'a\x01c', u'sp\xc4m'
-- List : [1, [2, 'three'], 4.5], list(range(10))
+- String : 'spam', "Bob's", b'a\x01c', u'sp\xc4m'
+- List : [1, [2, 'three'], 4.5]<!-- yaha list : [2, 'three'] is nested inside parent list : [1, [2, 'three'], 4.5] -->, list(range(10))
 - Tuple : (1, spam, 4, U), tuple('spam'), namedtuple
 <!-- hum ne yahan koi nested tuple nahi dala hai -->
 
@@ -18,5 +18,5 @@
 
 - Functions, modules, classes
 
-- Advance: generators, Decorators , Iterators, MetaProgramming
+- ADVANCE: Generators, Decorators , Iterators, MetaProgramming
 <!-- yeh apke exiting funtionality ko aur powerful banate hain -->
